@@ -1,0 +1,35 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main{
+  flex: 1;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.text-center{
+  text-align: center !important;
+}
+
+.header{
+  width: 100%;
+  height: 60px;
+  color: white;
+}
+
+
+.event_side_panel {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
